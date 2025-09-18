@@ -13,12 +13,9 @@ Este proyecto muestra un **dashboard interactivo en Power BI** diseñado para an
 - Power BI  
 - Excel (fuentes de datos originales)
 
-## 📂 Archivos
-- `Andrés Galvis - Analytics Engineer Colombia.pbix` → archivo principal del dashboard.  
-
 ## 🚀 Visualización
-Puedes ver una demo del dashboard [aquí](<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/9ca6ed56-7b68-4098-b0c7-853c127e5b09" />
-).
+Puedes ver una demo del dashboard <img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/ef4add83-e33d-445b-b250-4ca9b49e7553" />
+
 
 ---
 👨‍💻 **Autor:** Andrés Galvis  
